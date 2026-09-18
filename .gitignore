@@ -1,0 +1,4 @@
+*.exe
+*.o
+.vscode/
+GEMINI_SESSION.md
